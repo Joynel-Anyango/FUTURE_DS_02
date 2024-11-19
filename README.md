@@ -16,7 +16,7 @@ The dashboard utilizes IPL match and statistics datasets, with key tables and fi
 - Power BI
 
 ## Dashboard Features
--- Overall Team Performance: Compare team metrics such as wins, losses, runs scored, and wickets taken.
--- Top Players Analysis: Highlight individual player performance, including top run-scorers and leading wicket-takers.
--- Seasonal Insights: Track and visualize trends across different IPL seasons.
--- Venue Analysis: Examine performance patterns based on match locations and other environmental factors.
+- Overall Team Performance: Compare team metrics such as wins, losses, runs scored, and wickets taken.
+- Top Players Analysis: Highlight individual player performance, including top run-scorers and leading wicket-takers.
+- Seasonal Insights: Track and visualize trends across different IPL seasons.
+- Venue Analysis: Examine performance patterns based on match locations and other environmental factors.
